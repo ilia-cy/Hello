@@ -1,0 +1,19 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "Hello cycode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo OK!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilia-cy/Hello.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilia-cy/Hello/issues"
+  },
+  "homepage": "https://github.com/ilia-cy/Hello#readme"
+}
